@@ -1,8 +1,10 @@
 # DBT Playground
 
+Updated by Mochamad Reza Rahadi
+
 ## Introduction
 
-This is a DBT playground for learning purposes where we can experiment with various SQL queries and DBT models. In this repository, I have created five dimension tables and one fact table for a star schema. All the queries used to create the tables, as well as the analysis queries using the star schema to find the top-selling categories by each state in India, are documented in the results folder.
+This is a DBT playground for learning purposes where we can experiment with various SQL queries and DBT models. In this repository, I have created five dimension tables and one fact table for a star schema. ERD Diagram and All of the queries used to create the tables, as well as the analysis queries using the star schema to find the top-selling categories by each state in India, are documented in the results folder.
 
 ## BigQuery Setup
 
